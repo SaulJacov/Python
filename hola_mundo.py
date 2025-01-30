@@ -1,7 +1,9 @@
 #hola como estas perro
 print('hola Mundo')
 
+print("hola esta es una cadena que se mostrara en la consola")
+
 #tipos de datos
-print(type('esto es texto'))
-print(type(5))
-print(type(1.5))
+print('esto es texto')
+print(5)
+print(1.5)
