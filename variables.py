@@ -1,13 +1,12 @@
 #variables
-
 a = 4 
 b = 6
 c = a + b
 print(c)
 
-mi_texto = "texto"
+mi_texto = "string guardada en una variable"
 
-print(type(mi_texto))
+print(mi_texto)
 
 mi_numero = 11
 
